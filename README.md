@@ -21,13 +21,10 @@ The project uses historical stock price data to train a predictive model. The wo
 
 ### Installation
 git clone https://github.com/shreyas074/Stock-Market-Prediction-Model.git
+
 cd Stock-Market-Prediction-Model
+
 pip install numpy pandas matplotlib scikit-learn jupyter
-
-
-### Running the Notebook
-jupyter notebook
-Open `stockprice_prediction.ipynb` and run all cells.
 
 ## Workflow Summary
 - Data Collection
